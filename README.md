@@ -1,6 +1,6 @@
 # NLW Spacetime Explorer - Rocketseat
 
-## Cápsula do Tempo - em construção
+## Cápsula do Tempo 
 
 <img src="./assets/Capa_Projeto.jpg" width=500>
 
